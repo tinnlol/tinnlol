@@ -2,3 +2,5 @@ scwiptwah![image](https://user-images.githubusercontent.com/118191333/219940210-
 
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3irddy&layout=demo)
